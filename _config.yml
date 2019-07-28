@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Rosaynna Fellini"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am a veteran, a mentor and a documentary film maker currently working on a project about veteran suicides."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
